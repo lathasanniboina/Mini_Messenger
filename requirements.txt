@@ -1,0 +1,4 @@
+pymongo==3.12.1
+streamlit
+Pillow==8.4.0
+dnspython
